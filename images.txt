@@ -7,8 +7,9 @@
 #ghcr.io/home-assistant/home-assistant:stable
 
 #已构建的注释一下 加快点时间
-ubuntu
-django
-haproxy
-redis
-openjdk:21
+#ubuntu
+#django
+#haproxy
+#redis
+#openjdk:21
+rustdesk/rustdesk-server:latest
